@@ -6,6 +6,7 @@
 
 - Golang
 - Python
+- Rust
 - Vue/Vite
 - Solidity
 
