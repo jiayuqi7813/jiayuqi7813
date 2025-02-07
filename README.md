@@ -1,6 +1,7 @@
 # Sn1waR 👋
 
-**CTFer** | **Security Development Engineer**  
+**CTFer** | **Security Development Engineer** | **W&M** | **EIMSOUND**
+
 Passionate about solving challenges, developing secure solutions, and continuously learning about security.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.snowywar.top)](https://www.snowywar.top) 
