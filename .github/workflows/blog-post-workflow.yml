@@ -1,0 +1,47 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.snowywar.top/feed"
+
+  waka-time:
+    name: Update-wakatime
+    runs-on: ubuntu-latest
+    environment: 
+        name: production
+    permissions:
+        contents: write
+    steps:
+        - uses: anmol098/waka-readme-stats@master
+          with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            COMMIT_BY_ME: True
+            # SHOW_LINES_OF_CODE: True
+            SHOW_TOTAL_CODE_TIME: False
+            SHOW_PROFILE_VIEWS: False
+            SHOW_COMMIT: True
+            SHOW_DAYS_OF_WEEK: False
+            SHOW_LANGUAGE: True
+            SHOW_OS: True
+            # SHOW_PROJECTS: False
+            SHOW_TIMEZONE: True
+            SHOW_EDITORS: True
+            SHOW_LANGUAGE_PER_REPO: True
+            SHOW_SHORT_INFO: False
+            SHOW_LOC_CHART: False
+            SHOW_UPDATED_DATE: False
