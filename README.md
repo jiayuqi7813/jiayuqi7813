@@ -19,11 +19,11 @@ Passionate about solving challenges, developing secure solutions, and continuous
 ---
 ## 📖 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [obsidian webdav 同步最佳实践](https://www.snowywar.top/4555.html)
 - [VNCTF 2025 misc aimind WriteUP](https://www.snowywar.top/4546.html)
 - [rust重构之StegSolve](https://www.snowywar.top/4541.html)
 - [西湖论剑2025 cscs write up](https://www.snowywar.top/4527.html)
 - [2024 年终总结](https://www.snowywar.top/4525.html)
-- [OnlyPwner MULTISIG Writeup](https://www.snowywar.top/4507.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--START_SECTION:waka-->
