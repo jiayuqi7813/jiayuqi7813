@@ -19,11 +19,11 @@ Passionate about solving challenges, developing secure solutions, and continuous
 ---
 ## 📖 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我是如何用ai帮我快速复现clash-verge-rev 0day的](https://www.snowywar.top/4595.html)
 - [致敬传奇闭源在线编码与熊论道 之 与雪论题](https://www.snowywar.top/4590.html)
 - [幽默anchor rustc版本低下对不上bytemuck_derive导致无法build](https://www.snowywar.top/4587.html)
 - [obsidian webdav 同步最佳实践](https://www.snowywar.top/4555.html)
 - [VNCTF 2025 misc aimind WriteUP](https://www.snowywar.top/4546.html)
-- [rust重构之StegSolve](https://www.snowywar.top/4541.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--START_SECTION:waka-->
