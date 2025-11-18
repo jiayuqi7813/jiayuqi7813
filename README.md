@@ -19,11 +19,11 @@ Passionate about solving challenges, developing secure solutions, and continuous
 ---
 ## 📖 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [给老登wordpress进行ai赋能之接入豆包文生图](https://www.snowywar.top/4652.html)
+- [今年做的一些小东西](https://www.snowywar.top/4647.html)
 - [WMCTF2025-MISC phishing email / Shopping company 出题人wp与心得](https://www.snowywar.top/4622.html)
 - [密码保护：2025年5月22日](https://www.snowywar.top/4616.html)
 - [高速制作微信hdr表情包教程](https://www.snowywar.top/4612.html)
-- [我是如何用ai帮我快速复现clash-verge-rev 0day的](https://www.snowywar.top/4595.html)
-- [致敬传奇闭源在线编码与熊论道 之 与雪论题](https://www.snowywar.top/4590.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--START_SECTION:waka-->
