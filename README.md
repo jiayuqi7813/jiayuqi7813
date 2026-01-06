@@ -19,11 +19,11 @@ Passionate about solving challenges, developing secure solutions, and continuous
 ---
 ## 📖 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OnlyPwner - Proof of Work Writeup](https://www.snowywar.top/4662.html)
-- [给老登wordpress进行ai赋能之接入豆包文生图](https://www.snowywar.top/4652.html)
-- [今年做的一些小东西](https://www.snowywar.top/4647.html)
-- [WMCTF2025-MISC phishing email / Shopping company 出题人wp与心得](https://www.snowywar.top/4622.html)
-- [密码保护：2025年5月22日](https://www.snowywar.top/4616.html)
+- [OnlyPwner - SEAL 911 - Writeup](https://www.snowywar.top/4676.html)
+- [OnlyPwner - Payday - Writeup](https://www.snowywar.top/4674.html)
+- [OnlyPwner - Jump N Run -  Writeup](https://www.snowywar.top/4672.html)
+- [OnlyPwner - Diversion Challenge Writeup](https://www.snowywar.top/4670.html)
+- [OnlyPwner - Shapeshifter Writeup](https://www.snowywar.top/4668.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--START_SECTION:waka-->
