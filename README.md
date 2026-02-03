@@ -30,10 +30,10 @@ Passionate about solving challenges, developing secure solutions, and continuous
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                445 commits         █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌆 Daytime                375 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
-🌃 Evening                304 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+🌞 Morning                446 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌆 Daytime                376 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌃 Evening                304 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 ```
 
 
@@ -43,16 +43,16 @@ Passionate about solving challenges, developing secure solutions, and continuous
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+MicrosoftEdge            33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+macAFK-lite              33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
