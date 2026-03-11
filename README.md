@@ -30,10 +30,10 @@ Passionate about solving challenges, developing secure solutions, and continuous
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1617 commits        ████████████████░░░░░░░░░   65.04 % 
-🌆 Daytime                440 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-🌃 Evening                351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+🌞 Morning                1619 commits        ████████████████░░░░░░░░░   65.02 % 
+🌆 Daytime                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+🌃 Evening                351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 
@@ -43,19 +43,19 @@ Passionate about solving challenges, developing secure solutions, and continuous
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 16 mins      █████████████████████████   100.00 % 
+Other                    13 hrs 11 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-cs2                      6 hrs 35 mins       ███████████████░░░░░░░░░░   58.49 % 
-QQ                       2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Windows                  1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-oopz                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+cs2                      6 hrs 53 mins       █████████████░░░░░░░░░░░░   52.28 % 
+QQ                       3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Windows                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+oopz                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🐱‍💻 Projects: 
-Unknown Project          11 hrs 16 mins      █████████████████████████   100.00 % 
+Unknown Project          13 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
