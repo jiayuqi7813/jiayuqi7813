@@ -30,10 +30,10 @@ Passionate about solving challenges, developing secure solutions, and continuous
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1624 commits        ████████████████░░░░░░░░░   64.99 % 
-🌆 Daytime                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-🌃 Evening                351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+🌞 Morning                1627 commits        ████████████████░░░░░░░░░   64.85 % 
+🌆 Daytime                450 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌃 Evening                351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -43,32 +43,33 @@ Passionate about solving challenges, developing secure solutions, and continuous
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 31 mins      █████████████████████████   100.00 % 
+Other                    23 hrs 29 mins      █████████████████████████   100.00 % 
+Groff                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-cs2                      11 hrs 29 mins      ████████████████░░░░░░░░░   62.02 % 
-QQ                       3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Windows                  2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-oopz                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-MicrosoftEdge            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+cs2                      13 hrs 10 mins      ██████████████░░░░░░░░░░░   56.04 % 
+Windows                  3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+QQ                       3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+oopz                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+MicrosoftEdge            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-Unknown Project          17 hrs 50 mins      ████████████████████████░   96.26 % 
-tune-mobile              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Unknown Project          22 hrs 32 mins      ████████████████████████░   95.93 % 
+tune-mobile              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Operating System: 
-Windows                  17 hrs 50 mins      ████████████████████████░   96.26 % 
-Mac                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Windows                  22 hrs 32 mins      ████████████████████████░   95.93 % 
+Mac                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Swift                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Swift                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
