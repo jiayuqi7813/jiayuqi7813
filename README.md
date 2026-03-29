@@ -30,8 +30,8 @@ Passionate about solving challenges, developing secure solutions, and continuous
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1656 commits        ████████████████░░░░░░░░░   63.52 % 
-🌆 Daytime                518 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+🌞 Morning                1657 commits        ████████████████░░░░░░░░░   63.54 % 
+🌆 Daytime                518 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 🌃 Evening                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
@@ -43,19 +43,19 @@ Passionate about solving challenges, developing secure solutions, and continuous
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 39 mins      █████████████████████████   100.00 % 
+Other                    8 hrs 54 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-cs2                      8 hrs 39 mins       █████████████████░░░░░░░░   68.40 % 
-QQ                       2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Windows                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-oopz                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+cs2                      6 hrs 16 mins       ██████████████████░░░░░░░   70.37 % 
+QQ                       1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Windows                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+oopz                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 39 mins      █████████████████████████   100.00 % 
+Unknown Project          8 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
