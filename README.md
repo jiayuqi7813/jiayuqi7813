@@ -30,7 +30,7 @@ Passionate about solving challenges, developing secure solutions, and continuous
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1664 commits        ████████████████░░░░░░░░░   63.51 % 
+🌞 Morning                1665 commits        ████████████████░░░░░░░░░   63.53 % 
 🌆 Daytime                522 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 🌃 Evening                353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
@@ -43,23 +43,23 @@ Passionate about solving challenges, developing secure solutions, and continuous
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 7 mins       █████████████████████████   99.99 % 
+Other                    12 hrs 37 mins      █████████████████████████   99.99 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-cs2                      7 hrs 21 mins       ██████████████░░░░░░░░░░░   56.13 % 
-QQ                       2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Windows                  1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-oopz                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-MicrosoftEdge            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+cs2                      6 hrs 48 mins       █████████████░░░░░░░░░░░░   53.88 % 
+QQ                       2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Windows                  1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+oopz                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+MicrosoftEdge            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 24 mins      ████████████████████████░   94.63 % 
-tune-mobile              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Unknown Project          11 hrs 42 mins      ███████████████████████░░   92.74 % 
+tune-mobile              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      ████████████████████████░   94.63 % 
-Mac                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Windows                  11 hrs 42 mins      ███████████████████████░░   92.74 % 
+Mac                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 ```
 
 **I Mostly Code in Python** 
