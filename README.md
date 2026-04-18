@@ -27,47 +27,6 @@ Passionate about solving challenges, developing secure solutions, and continuous
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1692 commits        ████████████████░░░░░░░░░   62.85 % 
-🌆 Daytime                564 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-🌃 Evening                355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    21 hrs 14 mins      █████████████████████████   98.69 % 
-TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-🔥 Editors: 
-cs2                      11 hrs 57 mins      ██████████████░░░░░░░░░░░   55.57 % 
-MicrosoftEdge            3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-QQ                       3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Windows                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-oopz                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-
-🐱‍💻 Projects: 
-Unknown Project          16 hrs 45 mins      ███████████████████░░░░░░   77.88 % 
-tune-mobile              4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-TuneMirrorFrontend       24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-骗钱                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-TuneMirror               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-
-💻 Operating System: 
-Windows                  16 hrs 45 mins      ███████████████████░░░░░░   77.88 % 
-Mac                      4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
