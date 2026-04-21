@@ -30,9 +30,9 @@ Passionate about solving challenges, developing secure solutions, and continuous
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1697 commits        ████████████████░░░░░░░░░   62.78 % 
-🌆 Daytime                567 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-🌃 Evening                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌞 Morning                1698 commits        ████████████████░░░░░░░░░   62.77 % 
+🌆 Daytime                568 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+🌃 Evening                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
@@ -43,29 +43,29 @@ Passionate about solving challenges, developing secure solutions, and continuous
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 32 mins      ██████████████████████░░░   88.03 % 
-TypeScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Go                       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Other                    23 hrs 36 mins      ██████████████████████░░░   86.03 % 
+TypeScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Go                       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JavaScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-cs2                      9 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
-MicrosoftEdge            7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-QQ                       5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Windows                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-oopz                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+MicrosoftEdge            8 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
+cs2                      7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+QQ                       5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+oopz                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Windows                  1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 🐱‍💻 Projects: 
-Unknown Project          15 hrs 40 mins      ██████████████░░░░░░░░░░░   56.25 % 
-tune-mobile              7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-TuneMirrorFrontend       2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-TuneMirror               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-tune                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Unknown Project          14 hrs 9 mins       █████████████░░░░░░░░░░░░   51.56 % 
+tune-mobile              7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+TuneMirrorFrontend       2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+TuneMirror               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+tune                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Windows                  15 hrs 40 mins      ██████████████░░░░░░░░░░░   56.25 % 
-Mac                      12 hrs 11 mins      ███████████░░░░░░░░░░░░░░   43.75 % 
+Windows                  14 hrs 9 mins       █████████████░░░░░░░░░░░░   51.56 % 
+Mac                      13 hrs 17 mins      ████████████░░░░░░░░░░░░░   48.44 % 
 ```
 
 **I Mostly Code in Python** 
