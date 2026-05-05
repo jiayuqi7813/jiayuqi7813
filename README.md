@@ -30,10 +30,10 @@ Passionate about solving challenges, developing secure solutions, and continuous
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1719 commits        ████████████████░░░░░░░░░   62.13 % 
+🌞 Morning                1720 commits        ████████████████░░░░░░░░░   62.14 % 
 🌆 Daytime                587 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 🌃 Evening                377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -43,35 +43,39 @@ Passionate about solving challenges, developing secure solutions, and continuous
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 44 mins       ████████████████████████░   97.76 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    6 hrs 30 mins       ███████████████████████░░   92.07 % 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-cs2                      6 hrs 22 mins       ████████████████████░░░░░   80.53 % 
-Windows                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-MicrosoftEdge            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-QQ                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-oopz                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+cs2                      4 hrs 16 mins       ███████████████░░░░░░░░░░   60.47 % 
+MicrosoftEdge            1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+QQ                       38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Windows                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 25 mins       ███████████████████████░░   93.92 % 
-骗钱                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Unknown Project          5 hrs 4 mins        ██████████████████░░░░░░░   71.80 % 
+骗钱                       1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+splendor                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+agent-tools              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+璀璨宝石                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  7 hrs 25 mins       ███████████████████████░░   93.92 % 
-Mac                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Windows                  5 hrs 4 mins        ██████████████████░░░░░░░   71.80 % 
+Mac                      1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Python                   21 repos            ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+TypeScript               18 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 ```
 
 
