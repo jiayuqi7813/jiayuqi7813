@@ -27,44 +27,6 @@ Passionate about solving challenges, developing secure solutions, and continuous
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1734 commits        ███████████████░░░░░░░░░░   60.52 % 
-🌆 Daytime                642 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌃 Evening                400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-🌙 Night                  89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    14 hrs 3 mins       ███████████████████████░░   91.48 % 
-TypeScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-
-🔥 Editors: 
-cs2                      7 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.72 % 
-QQ                       2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Windows                  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-oopz                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-MicrosoftEdge            1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-
-🐱‍💻 Projects: 
-Unknown Project          13 hrs 12 mins      ██████████████████████░░░   86.04 % 
-splendor                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-
-💻 Operating System: 
-Windows                  13 hrs 12 mins      ██████████████████████░░░   86.04 % 
-Mac                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
