@@ -27,55 +27,14 @@ Passionate about solving challenges, developing secure solutions, and continuous
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1833 commits        █████████████░░░░░░░░░░░░   53.27 % 
-🌆 Daytime                887 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌃 Evening                614 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    17 hrs 49 mins      █████████████░░░░░░░░░░░░   51.95 % 
-Python                   6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Markdown                 3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Swift                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-
-🔥 Editors: 
-WeChat                   15 hrs 51 mins      ████████████░░░░░░░░░░░░░   46.24 % 
-MicrosoftEdge            12 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.50 % 
-cs2                      3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-QQ                       1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Windows                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-
-🐱‍💻 Projects: 
-rfc1149a_rfc1149a-7a400c117 hrs 27 mins      █████████████░░░░░░░░░░░░   50.89 % 
-eee                      6 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Unknown Project          4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-tune                     4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-terminals                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-
-💻 Operating System: 
-Mac                      29 hrs 29 mins      █████████████████████░░░░   85.98 % 
-Windows                  4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Python                   25 repos            ████████░░░░░░░░░░░░░░░░░   30.86 % 
+TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 
