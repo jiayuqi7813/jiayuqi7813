@@ -12,7 +12,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      CODEX_BEARER_TOKEN: ${{ secrets.CODEX_BEARER_TOKEN }}
+      CODEX_BEARER_TOKEN: ${{ secrets.CODEX_BEARER_TOKEN || vars.CODEX_BEARER_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
@@ -24,6 +24,7 @@ jobs:
             echo "available=false" >> "$GITHUB_OUTPUT"
             echo "::notice::Skipping Codex token activity update because CODEX_BEARER_TOKEN is not set."
           else
+            echo "::notice::Found CODEX_BEARER_TOKEN with length ${#CODEX_BEARER_TOKEN}."
             echo "available=true" >> "$GITHUB_OUTPUT"
           fi
 
@@ -31,7 +32,7 @@ jobs:
         if: steps.codex-token.outputs.available == 'true'
         uses: jiayuqi7813/codex-token-activity@main
         with:
-          codex-token: ${{ secrets.CODEX_BEARER_TOKEN }}
+          codex-token: ${{ env.CODEX_BEARER_TOKEN }}
           output: assets/codex-token-activity.svg
 
       - name: Commit generated SVG
