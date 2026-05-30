@@ -5,7 +5,7 @@
 Passionate about solving challenges, developing secure solutions, and continuously learning about security.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.snowywar.top)](https://www.snowywar.top) 
-[![BiliBili](https://img.shields.io/badge/BiliBili-哔哩哔哩-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/8389161)  
+[![BiliBili](https://img.shields.io/badge/BiliBili-Profile-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/8389161)  
 
 ---
 
@@ -25,63 +25,15 @@ Passionate about solving challenges, developing secure solutions, and continuous
 - [OnlyPwner - Payday - Writeup](https://www.snowywar.top/4674.html)
 - [OnlyPwner - Jump N Run -  Writeup](https://www.snowywar.top/4672.html)
 <!-- BLOG-POST-LIST:END -->
+
 ---
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1859 commits        █████████████░░░░░░░░░░░░   51.48 % 
-🌆 Daytime                985 commits         ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-🌃 Evening                649 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-🌙 Night                  118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-```
+## ⚡ Codex Token Activity
 
+<p align="center">
+  <img src="./assets/codex-token-activity.svg" alt="Codex Token Activity" />
+</p>
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    19 hrs 5 mins       █████████████░░░░░░░░░░░░   53.72 % 
-Python                   6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Markdown                 3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Swift                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-
-🔥 Editors: 
-WeChat                   15 hrs 52 mins      ███████████░░░░░░░░░░░░░░   44.64 % 
-MicrosoftEdge            13 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   37.60 % 
-cs2                      3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-QQ                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Windows                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-🐱‍💻 Projects: 
-rfc1149a_rfc1149a-7a400c117 hrs 27 mins      ████████████░░░░░░░░░░░░░   49.12 % 
-eee                      8 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Unknown Project          4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-tune                     4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-terminals                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-
-💻 Operating System: 
-Mac                      30 hrs 43 mins      ██████████████████████░░░   86.42 % 
-Windows                  4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   25 repos            ████████░░░░░░░░░░░░░░░░░   30.86 % 
-TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
 ---
 
 ## 📊 GitHub Stats
@@ -93,4 +45,3 @@ HTML                     5 repos             ██░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiayuqi7813/jiayuqi7813/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiayuqi7813/jiayuqi7813/output/github-contribution-grid-snake.svg">
 </picture>
-

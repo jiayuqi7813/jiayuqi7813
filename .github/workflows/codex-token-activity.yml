@@ -1,0 +1,42 @@
+name: Update Codex token activity
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      CODEX_BEARER_TOKEN: ${{ secrets.CODEX_BEARER_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Codex token secret
+        id: codex-token
+        shell: bash
+        run: |
+          if [[ -z "$CODEX_BEARER_TOKEN" ]]; then
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Skipping Codex token activity update because CODEX_BEARER_TOKEN is not set."
+          else
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate Codex token activity SVG
+        if: steps.codex-token.outputs.available == 'true'
+        uses: jiayuqi7813/codex-token-activity@main
+        with:
+          codex-token: ${{ secrets.CODEX_BEARER_TOKEN }}
+          output: assets/codex-token-activity.svg
+
+      - name: Commit generated SVG
+        if: steps.codex-token.outputs.available == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Codex token activity"
+          file_pattern: assets/codex-token-activity.svg
