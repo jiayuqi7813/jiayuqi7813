@@ -11,6 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment: production
     env:
       CODEX_BEARER_TOKEN: ${{ secrets.CODEX_BEARER_TOKEN || vars.CODEX_BEARER_TOKEN }}
     steps:
