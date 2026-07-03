@@ -28,14 +28,6 @@ Passionate about solving challenges, developing secure solutions, and continuous
 
 ---
 
-## ⚡ Codex Token Activity
-
-<p align="center">
-  <img src="./assets/codex-token-activity.svg" alt="Codex Token Activity" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jiayuqi7813&show_icons=true&theme=radical)
 
