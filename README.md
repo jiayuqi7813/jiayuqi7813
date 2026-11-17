@@ -15,77 +15,77 @@
 
 ## 👋 Hi, I'm Sn1waR
 
-- 🚩 **CTFer** @ [W&M](https://github.com/wm-team)，主攻 **MISC**
+- 🚩 **CTFer** @ [W&M](https://github.com/wm-team), focused on **MISC**
 - 🛡️ **Security Development Engineer**
-- 🤖 正在做 [**Muteki (無敵)**](https://github.com/FishCodeTech/muteki)：开源的 AI 自动化渗透测试 Harness
-- 🧪 在两台 DGX Spark 上折腾开源大模型的部署与行为干预
+- 🤖 Building [**Muteki**](https://github.com/FishCodeTech/muteki), an open-source AI-powered offensive security harness for automated penetration testing
+- 🧪 Tinkering with open-model deployment and behavioral interventions on dual DGX Sparks
 - 🎧 **EIMSOUND**
-- ✍️ Writeup 和随笔都在 [snowywar.top](https://www.snowywar.top)
+- ✍️ Writeups and notes at [snowywar.top](https://www.snowywar.top)
 
 ## 🚀 Projects
 
 <table>
   <tr><th colspan="3" align="left">🤖 AI × Security</th></tr>
   <tr>
-    <td><a href="https://github.com/FishCodeTech/muteki"><b>Muteki (無敵)</b></a></td>
-    <td>开源 AI 攻击性安全 Harness，自动化渗透测试</td>
+    <td><a href="https://github.com/FishCodeTech/muteki"><b>Muteki</b></a></td>
+    <td>Open-source AI-powered offensive security harness for automated penetration testing</td>
     <td><img src="https://img.shields.io/github/stars/FishCodeTech/muteki?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/DeepSeek-V4-Flash-0731-CRACK-2x-DGX-Spark">DeepSeek-V4-Flash-CRACK</a></td>
-    <td>双 DGX Spark 上可复现的拒绝子空间编辑与 TP=2 部署</td>
+    <td>Reproducible refusal-subspace editing and TP=2 deployment on two DGX Sparks</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/DeepSeek-V4-Flash-0731-CRACK-2x-DGX-Spark?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/crack-open-models-dgx-spark">crack-open-models-dgx-spark</a></td>
-    <td>面向开源模型行为干预的 Codex Skill</td>
+    <td>Architecture-first Codex skill for open-model behavioral interventions</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/crack-open-models-dgx-spark?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/misc-mcp">misc-mcp</a></td>
-    <td>自用 MISC 工具的 MCP 开源版</td>
+    <td>Open-source edition of my personal MISC toolkit, served over MCP</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/misc-mcp?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
-  <tr><th colspan="3" align="left">🔍 CTF / MISC 工具</th></tr>
+  <tr><th colspan="3" align="left">🔍 CTF / MISC Tools</th></tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/Stegsolve-rs"><b>Stegsolve-rs</b></a></td>
-    <td>Rust + egui 重构的图像隐写分析工具，已支持 MCP</td>
+    <td>StegSolve rebuilt in Rust + egui for image steganography analysis, now with MCP support</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/Stegsolve-rs?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/zsteg-rust">zsteg-rust</a></td>
-    <td>Rust 重写的 zsteg</td>
+    <td>zsteg rewritten in Rust</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/zsteg-rust?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/jiayuqi7813/chal_with_snowy">与雪论题</a></td>
-    <td>与熊论道死了？没关系，我有与雪论题</td>
+    <td><a href="https://github.com/jiayuqi7813/chal_with_snowy">chal_with_snowy</a></td>
+    <td>AES text and file encryption with a custom character mapping</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/chal_with_snowy?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/gopic">goPic</a></td>
-    <td>Golang 版 PIL 图像处理库</td>
+    <td>PIL-inspired image processing library for Go</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/gopic?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
-  <tr><th colspan="3" align="left">🧰 Skills &amp; 小工具</th></tr>
+  <tr><th colspan="3" align="left">🧰 Skills &amp; Utilities</th></tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/video-Zebra-china">video-Zebra-china</a></td>
-    <td>外语视频一键汉化的 Codex Skill：中文字幕 + 普通话配音</td>
+    <td>Codex skill that localizes foreign-language videos with Chinese subtitles and Mandarin dubbing</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/video-Zebra-china?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/VideoSlimmer">VideoSlimmer</a></td>
-    <td>带图形界面的简易视频压缩工具</td>
+    <td>Easy-to-use video compressor with a simple GUI</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/VideoSlimmer?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/rhythm-game-bga">rhythm-game-bga</a></td>
-    <td>把一首歌变成音乐同步的 3D 音游 BGA 的 Agent Skill</td>
+    <td>Agent skill that turns a song into a music-synced 3D rhythm-game BGA</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/rhythm-game-bga?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jiayuqi7813/macAFK-Pro">macAFK-Pro</a></td>
-    <td>macOS 防休眠工具，自动晃鼠标 + 智能亮度</td>
+    <td>macOS anti-sleep tool with mouse jiggling and smart brightness control</td>
     <td><img src="https://img.shields.io/github/stars/jiayuqi7813/macAFK-Pro?style=flat-square&amp;label=%E2%98%85&amp;color=F5B301" alt="stars"></td>
   </tr>
 </table>
