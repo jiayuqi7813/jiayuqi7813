@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Sn1waR — Security, MISC, AI</title>
+  <desc id="description">A clean security research workbench with a faceted crystal network motif.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#52728a" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="78%" cy="49%" r="48%">
+      <stop offset="0" stop-color="#bceee2" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#edf5fa" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="facet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7fbf5"/>
+      <stop offset="1" stop-color="#d4e9fb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="18" fill="#f4f8fb"/>
+  <rect width="1200" height="340" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#d9e5ed"/>
+
+  <path d="M80 83h74" stroke="#08796f" stroke-width="3" stroke-linecap="round"/>
+  <text x="80" y="69" fill="#38546b" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="650" letter-spacing="2.4">PROFILE / SECURITY WORKBENCH</text>
+  <text x="76" y="163" fill="#112e48" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="96" font-weight="760" letter-spacing="-2.5">Sn1waR</text>
+  <text x="82" y="207" fill="#006b61" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="40" font-weight="700" letter-spacing="2.4">SECURITY  /  MISC  /  AI</text>
+  <text x="82" y="254" fill="#38546b" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="550" letter-spacing="1.2">@jiayuqi7813</text>
+  <path d="M80 294h440" stroke="#c4d6e1" stroke-width="1"/>
+  <circle cx="80" cy="294" r="3" fill="#08796f"/>
+
+  <g fill="none" stroke="#3c8390" stroke-opacity=".42" stroke-width="1.5">
+    <ellipse cx="928" cy="166" rx="174" ry="105" transform="rotate(-22 928 166)"/>
+    <ellipse cx="928" cy="166" rx="147" ry="69" transform="rotate(31 928 166)" stroke="#5088a7" stroke-opacity=".34"/>
+    <path d="M872 119 811 86M986 119l70-39M986 181l75 43M872 181l-67 43"/>
+    <path d="M930 48v30M930 218v34M826 165h-38M1033 165h43" stroke-opacity=".27"/>
+  </g>
+
+  <g stroke="#287b83" stroke-width="1.6" stroke-linejoin="round">
+    <polygon points="930,78 987,113 987,181 930,218 873,181 873,113" fill="url(#facet)"/>
+    <polygon points="930,78 987,113 930,145" fill="#d9f5ed"/>
+    <polygon points="930,78 873,113 930,145" fill="#eaf9f6"/>
+    <polygon points="873,113 873,181 930,145" fill="#d9edf7"/>
+    <polygon points="987,113 987,181 930,145" fill="#c9e9f0"/>
+    <polygon points="873,181 930,218 930,145" fill="#e5f3f8"/>
+    <polygon points="987,181 930,218 930,145" fill="#cfe6f4"/>
+  </g>
+  <circle cx="930" cy="145" r="5" fill="#08796f"/>
+  <circle cx="930" cy="145" r="12" fill="none" stroke="#08796f" stroke-opacity=".35"/>
+
+  <g fill="#08796f">
+    <circle cx="811" cy="86" r="4"/>
+    <circle cx="1056" cy="80" r="4"/>
+    <circle cx="1061" cy="224" r="4"/>
+    <circle cx="805" cy="224" r="4"/>
+    <circle cx="788" cy="165" r="3"/>
+    <circle cx="1076" cy="165" r="3"/>
+  </g>
+  <g fill="#38546b" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="650" letter-spacing="1.5">
+    <text x="1068" y="75">SIGNAL</text>
+    <text x="1069" y="245">SYSTEMS</text>
+  </g>
+</svg>
