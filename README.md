@@ -40,6 +40,3 @@ Passionate about solving challenges, developing secure solutions, and continuous
 
 ---
 
-## Wayback Machine ownership verification
-
-I own and control the GitHub account jiayuqi7813. For personal privacy, I request exclusion from public access of all Wayback Machine captures of https://github.com/jiayuqi7813 from January 1 through December 31, 2026, inclusive (UTC), including HTTP/HTTPS, trailing-slash and query-parameter variants, and any further captures during the remainder of 2026. This request covers only my personal profile page and its URL variants.
